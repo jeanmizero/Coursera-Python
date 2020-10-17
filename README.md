@@ -1,6 +1,7 @@
 ## Coursera-Python
 
 > Python for Everybody Specialization taught by University of Michigan
+
 > Interactive HTML :https://books.trinket.io/pfe/index.html
 
 > The programmer job is to serve the user
