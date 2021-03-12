@@ -12,3 +12,7 @@ if num % check == 0:
     print(num, "divides evenly by", check)
 else:
     print(num, "does not divide evenly by", check)
+# tuple
+stock_prices = [("APPL", 200), ("GOOG", 400), ("MSFT", 100)]
+for item in stock_prices:
+    print(item)
